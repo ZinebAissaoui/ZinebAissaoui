@@ -35,7 +35,7 @@
 
 ### :star2: Interested in : 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Visualization"> <img src="https://img.shields.io/badge/Cloud"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red">  <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Engineering-blue">
+<img src="https://img.shields.io/badge/Data_Visualization-blue"> <img src="https://img.shields.io/badge/Cloud-red"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red">  <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Engineering-blue">
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :

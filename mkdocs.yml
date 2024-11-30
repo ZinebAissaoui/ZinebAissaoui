@@ -87,18 +87,18 @@ extra:
             using our Comments section below.
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ilyasselfourati
+      link: https://github.com/ZinebAissaoui
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ilyasselfourati/
+      link: https://www.linkedin.com/in/zineb-aissaoui/
     - icon: fontawesome/brands/facebook
 
 
 # Repository
-repo_url: https://github.com/ilyasselfourati/ilyasselfourati
+repo_url: https://github.com/ZinebAissaoui/ZinebAissaoui
 edit_uri: edit/source/web/
 
 # Copyright
-copyright: Copyright &copy; 2024 Ilyass El Fourati
+copyright: Copyright &copy; 2024 Zineb Aissaoui
 
 
 # Extensions

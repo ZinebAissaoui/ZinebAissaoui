@@ -24,6 +24,7 @@
       <li>Fast learner and very curious person
       <li>Empowering businesses by automating repetitive and time-intensive tasks.
       <li>Very good competences in project management and redaction of cahier de charges and suivie des projets et test et deployment.</li></ul>
+      <strong>📂 Découvrez mes projets </strong> sur <a href="https://ZinebAissaoui.github.io/ZinebAissaoui/">mon portfolio</a>, où je présente des réalisations concrètes.<br>
       <strong>🎯 My mission? </strong> To collaborate with innovative teams and tackle challenges in big data management, applied AI, and process optimization.<br>
       <br>
       <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.

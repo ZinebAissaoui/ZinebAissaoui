@@ -35,14 +35,13 @@
 
 ### :star2: Interested in : 
 <p align="center">
-<img src="https://img.shields.io/badge/Data Visualization"> <img src="https://img.shields.io/badge/Cloud"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red">  <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Engineering-blue">
+<img src="https://img.shields.io/badge/Data_Visualization"> <img src="https://img.shields.io/badge/Cloud"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red">  <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Engineering-blue">
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt = "python" width="60" height="60"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt= "opencv" width="60" height="60"/>&nbsp;
-
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt ="tensorflow" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="60" height="60"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="60" alt="pandas" height="60"/>&nbsp;

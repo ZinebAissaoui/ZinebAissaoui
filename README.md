@@ -8,7 +8,7 @@
 ### :man_technologist: About Me :
 
 <p><strong>🔍 Turning data into strategic decisions</strong> <br>
-      Welcome! I’m Ilyass El Fourati, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
+      Welcome! I’m Zineb Aissaoui, a passionate Data Scientist and engineer dedicated to uncovering insights and delivering impactful solutions through data. With a strong academic background in Data Science (École Centrale Casablanca, Lille, and Marseille), I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
       <br>
       <strong>💡 What I do:</strong>
       <ul>

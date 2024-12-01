@@ -23,6 +23,30 @@ title: About
        <a href="mailto:<z.aissaouipro@gmail.com>" class="email" style=" color: inherit;" title="Email - z.aissaouipro@gmail.com"><i class="fas fa-paper-plane"></i></a>
       </div>
       <div class="Education">
+        <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
+
+        <div class="timeline">
+          <div class="timeline-item">
+            <span class="date">Jan 2022 - Jul 2022</span>
+            <h3>International exchange</h3>
+            <p><strong>Ecole Centrale Supélec</strong><br>France, Paris</p>
+          </div>
+
+          <div class="timeline-item">
+            <span class="date">Sept 2020 - Sept 2024</span>
+            <h3>Data Science and digitalization</h3>
+            <p><strong><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong><br>Morocco, Casablanca</p>
+          </div>
+
+          <div class="timeline-item">
+            <span class="date">Sept 2018 - Apr 2020</span>
+            <h3>Mathematics & Physics Engineering Science</h3>
+            <p><strong>Preparatory Classes Omar Ibn Abdelaziz</strong><br>Morocco, Oujda</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="Education">
            <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
       <p> 
       <strong> International exchange<span class="date" style=" color: inherit;">Jan 2022 - Jul 2022</span><br><a>Ecole Centrale Supèlec</a></strong> France, Paris
@@ -31,7 +55,7 @@ title: About
       <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Sept 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
       </p>
       <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Omar Ibn Abdelaziz</a></strong> Morocco, Oujda</p>
-      </div>
+      </div> -->
      </center>
     </div>
   </div>

@@ -362,3 +362,60 @@ background: linear-gradient(155deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840,
     display: none;
   }
 }
+
+
+.Education {
+  font-family: Arial, sans-serif;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 40px;
+  margin-top: 20px;
+  border-left: 2px solid #ddd;
+}
+
+.timeline-item {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: 0;
+  width: 16px;
+  height: 16px;
+  background-color: #007bff;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.date {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.timeline-item h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.timeline-item p {
+  margin: 5px 0 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.timeline-item a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.timeline-item a:hover {
+  text-decoration: underline;
+}

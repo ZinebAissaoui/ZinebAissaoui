@@ -18,9 +18,19 @@ title: About
       <h2>Business Intelligence and Data Engineer | Centralien Engineer</h2>
       <h3> Data transformation & Visualisation  | Solutions Cloud - Azure | Interested at NLP & Machine Learning <h3>
       <div class="socials">
-       <a href="https://www.linkedin.com/in/zineb-Aissaoui" class="ln" style=" color: inherit;" title="LinkedIn - Ilyass El Fourati"><i class="fab fa-linkedin"></i></a>
-       <a href="https://github.com/ZinebAissaoui" class="git" style=" color: inherit;" title="Github - Ilyass El Fourati"><i class="fab fa-github"></i></a>
+       <a href="https://www.linkedin.com/in/zineb-Aissaoui" class="ln" style=" color: inherit;" title="LinkedIn - Zineb Aissaoui"><i class="fab fa-linkedin"></i></a>
+       <a href="https://github.com/ZinebAissaoui" class="git" style=" color: inherit;" title="Github - Zineb Aissaoui"><i class="fab fa-github"></i></a>
        <a href="mailto:<z.aissaouipro@gmail.com>" class="email" style=" color: inherit;" title="Email - z.aissaouipro@gmail.com"><i class="fas fa-paper-plane"></i></a>
+      </div>
+      <div class="Education">
+           <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
+      <p> 
+      <strong> International exchange<span class="date" style=" color: inherit;">Jan 2022 - Jul 2022</span><br><a>Ecole Centrale Supèlec</a></strong> France, Paris
+      </p>
+      <p> 
+      <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Sept 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
+      </p>
+      <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Omar Ibn Abdelaziz</a></strong> Morocco, Oujda</p>
       </div>
      </center>
     </div>
@@ -51,14 +61,7 @@ title: About
       <br>
       <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
       <br>
-           <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
-      <p> 
-      <strong> International exchange<span class="date" style=" color: inherit;">Jan 2022 - Jul 2022</span><br><a>Ecole Centrale Supèlec</a></strong> France, Paris
-      </p>
-      <p> 
-      <strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Sept 2024</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca
-      </p>
-      <p><strong>Mathematics & Physics Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a>Preparatory Classes Omar Ibn Abdelaziz</a></strong> Morocco, Oujda</p>
+      
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong style="font-size: 1.5em;">BI & Data Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2024- Sep 2024</span><br><a>Wapsi ESN</a></strong> - Internship</p>
       <p>
@@ -117,6 +120,7 @@ title: About
         </li>
       </ul>
       <a href="https://github.com/ZinebAissaoui/RAG-with-langchain"><strong>Code of Project</strong></a>
+
       <a href="https://drive.google.com/file/d/1fjMWbCE3DwqzuNFVsyI0KrBwEIlDsn4A/view?usp=sharing"><strong>Poster of the project </strong></a>
     <p><strong style="font-size: 1.5em;">Asynchronous Architecture for Medical Records Processing and Metadata Retrieval </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Sep 2023 - Feb 2024</span><br><a>Ecole Centrale Casablanca</strong></a> 
       <ul>
@@ -128,6 +132,7 @@ title: About
       </ul>
       <b>Technologies:</b> Python, NLP, OCR, TF-IDF, Embeeding...<br>
       <a href="https://github.com/ZinebAissaoui/Projet_S2D"><strong>Code of the project </strong></a>
+
       <a href="https://drive.google.com/file/d/1aInp9feCe7Cb77mJtRAEN7W0LxkVVSmv/view?usp=sharing"><strong>Poster of the project </strong></a>
       <p><strong style="font-size: 1.5em;">Realtime Data streamin </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Nov 2024 - Dec 2024</span><br><a>Autonomy</strong></a></p>
       <p>An end to end project for Data Streamin </p>

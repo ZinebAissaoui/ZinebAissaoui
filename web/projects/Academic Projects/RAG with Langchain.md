@@ -43,7 +43,7 @@ In this project, you will find the script for **pipelines 1 and 2**, which repre
 ## Proof of concept
 ![image](https://github.com/user-attachments/assets/2f137408-977f-414f-98d8-35b8e9ffe792)
 
-
+[Link to project](https://github.com/ZinebAissaoui/RealtimeDataStreaming/tree/main)
 
 
 

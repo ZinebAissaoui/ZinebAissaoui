@@ -137,69 +137,12 @@ markdown_extensions:
 nav:
   - Portfolio: index.md
   - Projects:
-    - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
+    - RAG with Langchain: projects/Academic Projects/RAG with Langchain.md
+    - Medical recordes traitment with NLP : projects/Academic Projects/Medical records - NLP.md
+    - Realtime Data streaming : projects\Academic Projects\RealtimeDataStreaming.md
   #  - projects/Professional Projects/index.md
   #- 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
   #     - projects/Academic Projects/index.md
   #     - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
 
-  # - Tutorials:
-  #   - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:
-  #     - Tutorials/Libraries/index.md
-  #     - NumPy: Tutorials/Libraries/numpy.md
-  #     - Pandas: Tutorials/Libraries/pandas.md
-  #   - 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧:
-  #     - Tutorials/Computer Vision Algorithms/index.md
-  #     - YOLO-NAS: Tutorials/Computer Vision Algorithms/yolonas.md
-  #   - 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠: 
-  #     - Tutorials/Natural Language Processing/index.md
-  #     - Bases of NLP: Tutorials/Natural Language Processing/bases.md
-    #   - Tools of NLP: Tutorials/Natural Language Processing/tools.md
-    #   - Simple Analysis: Tutorials/Natural Language Processing/simple.md
-    #   - Advanced Analysis: Tutorials/Natural Language Processing/advanced.md
-    #   - Data Collection: Tutorials/Natural Language Processing/collection.md
-    #   - RNN: Tutorials/Natural Language Processing/reseaunn.md
-    #   - Modern Technics: Tutorials/Natural Language Processing/modern.md
-  # - Blogs:
-  #   - 𝐌𝐋 & 𝐃𝐋 𝐌𝐨𝐫𝐨𝐜𝐜𝐨 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬: 
-  #     - blogs/MA challenges/index.md
-  #     - 📚 Day 1 - Education : blogs/MA challenges/education.md
-  #     - 🏥 Day 2 - Healthcare : blogs/MA challenges/healthcare.md
-  #     - 🌾 Day 3 - Agriculture : blogs/MA challenges/agriculture.md
-  #     - 💰 Day 4 - Finance : blogs/MA challenges/finance.md
-  #     - ⚡ Day 5 - Sustainable Energy : blogs/MA challenges/energy.md
-  #     - 🚗 Day 6 - Transportation : blogs/MA challenges/transportation.md
-  #     - 🚀 Day 7 - Innovation : blogs/MA challenges/innovation.md
-  #     - 🏛️ Day 8 - Public Services : blogs/MA challenges/public_services.md
-  #     - 🌐 Day 9 - Cybersecurity : blogs/MA challenges/cybersecurity.md
-  #     - 🧠 Day 10 - AI Talent : blogs/MA challenges/ai_talent.md
-  #     - 🛡️ Day 11 - Data Privacy : blogs/MA challenges/data_privacy.md
-  #     - 🤝 Day 12 - Collaboration : blogs/MA challenges/collaboration.md
-  #   - 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐲 𝐒𝐞𝐫𝐢𝐞𝐬:
-  #     - blogs/Data Pipelines/index.md
-  #     - Batch Processing Data Pipeline: blogs/Data Pipelines/batch_processing.md
-  #     - Real-Time Streaming Data Pipeline: blogs/Data Pipelines/real_time_processing.md
-  #     - Cloud-Based Data Pipeline: blogs/Data Pipelines/cloud_based_processing.md
-  #     - Machine Learning Data Pipeline: blogs/Data Pipelines/serverless_processing.md
-  # - Books: books/not yet.md
-    # - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: 
-    #   - Preface: books/Hands on machine learning/preface.md
-    #   - The Fundamentals of Machine Learning:
-    #     - The Machine Learning Landscape: books/Hands on machine learning/The Fundamentals of Machine Learning/3.1. The Machine Learning Landscape.md
-    #     - End-to-End Machine Learning Project: books/Hands on machine learning/The Fundamentals of Machine Learning/3.2. End-to-End Machine Learning Project.md
-    #     - Classification: books/Hands on machine learning/The Fundamentals of Machine Learning/3.3. Classification.md
-    #     - Training Models: books/Hands on machine learning/The Fundamentals of Machine Learning/3.4. Training Models.md
-    #     - Support Vector Machines: books/Hands on machine learning/The Fundamentals of Machine Learning/3.5. Support Vector Machines.md
-    #     - Decision Trees: books/Hands on machine learning/The Fundamentals of Machine Learning/3.6. Decision Trees.md
-    #     - Ensemble Learning and Random Forests: books/Hands on machine learning/The Fundamentals of Machine Learning/3.7. Ensemble Learning and Random Forests.md
-    #     - Dimensionality Reduction: books/Hands on machine learning/The Fundamentals of Machine Learning/3.8. Dimensionality Reduction.md
-    #     - Unsupervised Learning Techniques: books/Hands on machine learning/The Fundamentals of Machine Learning/3.9. Unsupervised Learning Techniques.md
-    #   - Neural Networks and Deep Learning:
-    #     - Introduction to Artificial Neural Networks with Keras: books/Hands on machine learning/Neural Networks and Deep Learning/4.1. Introduction to Artificial Neural Networks with Keras.md
-    #     - Training Deep Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.2. Training Deep Neural Networks.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.3. Custom Models and Training with TensorFlow.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.4. Loading and Preprocessing Data with TensorFlow.md
-    #     - Deep Computer Vision Using Convolutional Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.5. Deep Computer Vision Using Convolutional Neural Networks.md
-    #   - About the Author: books/Hands on machine learning/About the Author.md
-    #   - Colophon: books/Hands on machine learning/Colophon.md
-
+ 

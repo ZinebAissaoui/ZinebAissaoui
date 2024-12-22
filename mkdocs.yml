@@ -139,17 +139,10 @@ nav:
   # - Projects:
   #   - 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
   #     - projects/Professional Projects/index.md
-  #   - 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+   - 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
   #     - projects/Academic Projects/index.md
-  #     - Spam Dataset: projects/Academic Projects/spam datasets.md
-  #     - Ozone Dataset: projects/Academic Projects/ozone datasets.md
-  #     - Boston Dataset: projects/Academic Projects/boston datasets.md
-  #     - TP_GNN : projects/Academic Projects/tp_gnn.md
-  #     - Abstractive Summarization: projects/Academic Projects/abstractive summarization.md
-  #     - Big-Data For IoT: projects/Academic Projects/big data for iot.md
-  #     - Profilage des chauffeurs: projects/Academic Projects/projet R.md
-  #     - Reciprocal n-body Collision Avoidance : projects/Academic Projects/Reciprocal-n-body-Collision-Avoidance.md
-  #     - Algorithmes Génétiques 2, Peindre Vermeer : projects/Academic Projects/Painting Vermeer.md
+        - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
+
   # - Tutorials:
   #   - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:
   #     - Tutorials/Libraries/index.md

@@ -104,7 +104,7 @@ title: About
           🛠️Azure : Azure Functions, Azure Synapse, Azure Databricks, Azure Datafactory, Azure Blob Storage, Azure Machine Learning, Azure Data studio<br>
           🛠️Power Microsoft : Power Apps, Power BI, Power Automate  
       </p>
-     <p><strong style="font-size: 1.5em;"> Data Project Manager </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Jan 2023 - Jul 2023</span><br><a>Forvia</a></strong> - Internship</p>
+     <p><strong style="font-size: 1.5em;"> Data Project Manager </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Jan 2023 - Jul 2023</span><br><a>Numberly</a></strong> - Internship</p>
      <p>
       <ul>
         <li>Collaborated with cross-functional teams to gather requirements and define project scope, resulting in successful delivery of data solutions and data pipelines.
@@ -119,7 +119,7 @@ title: About
             🛠️Project management :  Kanban, Gant diagram ....<br>
             
       </p>
-      <p><strong style="font-size: 1.5em;">Consultant Data & Business intelligence </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Jully 2022 - Dec 2023</span><br><a>NGE</a></strong> Vinci Construction</p>
+      <p><strong style="font-size: 1.5em;">Consultant Data & Business intelligence </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Jully 2022 - Dec 2023</span><br><a>Vinci Construction</a></strong> Internship</p>
       <p>Reduction of CO2 emissions due to the use of concrete from purchase invoices :
       <ul>
         <li>Implementation of new Business Intelligence and Data solutions
@@ -159,7 +159,7 @@ title: About
       </ul>
       <b>Technologies:</b> Python, NLP, OCR, TF-IDF, Embeeding...<br>
       <a href="https://github.com/ZinebAissaoui/Projet_S2D"><strong>Code of the project </strong></a>
-
+      
       <a href="https://drive.google.com/file/d/1aInp9feCe7Cb77mJtRAEN7W0LxkVVSmv/view?usp=sharing"><strong>Poster of the project </strong></a>
       <p><strong style="font-size: 1.5em;">Realtime Data streamin </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Nov 2024 - Dec 2024</span><br><a>Autonomy</strong></a></p>
       <p>An end to end project for Data Streamin </p>

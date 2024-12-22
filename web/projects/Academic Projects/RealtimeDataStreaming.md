@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Real-Time Data Streaming Pipeline: Portfolio Project
 
 ### Project Overview

@@ -23,9 +23,9 @@ title: About
        <a href="mailto:<z.aissaouipro@gmail.com>" class="email" style=" color: inherit;" title="Email - z.aissaouipro@gmail.com"><i class="fas fa-paper-plane"></i></a>
       </div>
       <div class="Education">
-      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
+      <h2><i class="fas fa-graduation-cap"></i> Education</h2>
 
-      <ul style="list-style: none; padding-left: 20px; position: relative; margin-left: 20px; border-left: 2px solid #ddd;">
+      <ul style="list-style: none; padding-left: 20px; position: relative; margin-left: 20px;border-left: 2px solid #ddd;">
         <li style="margin-bottom: 20px;">
           <div style="position: relative;">
             <span style="font-size: 14px; color: #777;">Jan 2022 - Jul 2022</span>
@@ -50,7 +50,7 @@ title: About
       </ul>
     </div>
       <!-- <div class="Education">
-           <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
+           <h2><i class="fas fa-graduation-cap"></i> Education</h2>
       <p> 
       <strong> International exchange<span class="date" style=" color: inherit;">Jan 2022 - Jul 2022</span><br><a>Ecole Centrale Supèlec</a></strong> France, Paris
       </p>
@@ -65,7 +65,7 @@ title: About
   <div class="stuff__container">
     <div class="stuff__content">
      <span class="resume" style=" color: inherit;"><a href=https://drive.google.com/file/d/1pTo9Pr6nZBqefg1Wp6RtsfyEmKUSnK57/view?usp=drive_link><strong>Export Resume </strong><i class="far fa-file-alt"></i>
-     </a></span><h1>About</h1>
+     </a></span><h1>About me</h1>
       <div class="underline"></div>
       <p><strong>🔍 Turning data into strategic decisions</strong> <br>
       Welcome! I’m Zineb Aissaoui, a passionate Data engineer and BI dedicated to uncovering insights and delivering impactful solutions through data. With a strong engineering background in Data science and digitalization at (École Centrale Casablanca and Supelèc) with expertise in project management, I merge advanced technical expertise with strategic thinking to solve complex business challenges.<br>
@@ -89,7 +89,7 @@ title: About
       <strong>🌱 What drives me:</strong> Innovation, continuous learning, and creating meaningful impact through data.
       <br>
       
-     <h2><i class="fas fa-briefcase"></i> Experience -</h2>
+     <h2><i class="fas fa-briefcase"></i> Experience</h2>
      <p><strong style="font-size: 1.5em;">BI & Data Engineer </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Mar 2024- Sep 2024</span><br><a>Wapsi ESN</a></strong> - Internship</p>
       <p>
       <ul>
@@ -136,7 +136,7 @@ title: About
       
       
       <br>
-    <h2><i class="fas fa-briefcase"></i> Academic Project -</h2>
+    <h2><i class="fas fa-briefcase"></i> Academic Project </h2>
     <p><strong style="font-size: 1.5em;">RAG for Access to Scientific Articles </strong><strong style="font-size: 1.2em;"><span class="date" style=" color: inherit;">Feb 2024 - Mar 2024</span><br><a>Ecole Centrale Casablanca & AxIA</strong></a> 
       <ul>
         <li><b>Objective:</b> Facilitate LLMs' access to scientific articles for advanced interaction.
@@ -172,8 +172,6 @@ title: About
         <li>Containerizing your data engineering environment with Docker.
         </li>
       <b>Technologies:</b>  Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra<br>
-      
-
       <center class="instafeed">
         <span class="instalight">
           <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>

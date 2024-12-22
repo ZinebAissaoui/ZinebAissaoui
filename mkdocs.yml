@@ -136,9 +136,9 @@ markdown_extensions:
 # Page tree
 nav:
   - Portfolio: index.md
-  # - Projects:
-  #   - 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-  #     - projects/Professional Projects/index.md
+  - Projects:
+    - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
+  #  - projects/Professional Projects/index.md
   #- 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
   #     - projects/Academic Projects/index.md
   #     - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md

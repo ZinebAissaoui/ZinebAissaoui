@@ -4,8 +4,6 @@
 
 I implemented a **real-time data streaming pipeline** to showcase my expertise in data engineering. This project demonstrates the complete workflow, from data ingestion to processing and storage, utilizing a modern stack of tools. The entire environment was containerized for scalability and ease of deployment.
 
----
-
 ### Key Achievements
 
 - **Architected a robust pipeline** using industry-leading tools such as Apache Airflow, Kafka, Spark, and Cassandra.  
@@ -17,8 +15,6 @@ I implemented a **real-time data streaming pipeline** to showcase my expertise i
   - **PostgreSQL** for relational data.  
 - **Containerized the full environment** using **Docker Compose**, enabling seamless deployment across environments.  
 
----
-
 ### Tech Stack
 
 - **Workflow Orchestration**: Apache Airflow  
@@ -27,7 +23,6 @@ I implemented a **real-time data streaming pipeline** to showcase my expertise i
 - **Data Storage**: Cassandra, PostgreSQL  
 - **Containerization**: Docker, Docker Compose  
 
----
 
 ### System Architecture
 
@@ -44,13 +39,9 @@ I implemented a **real-time data streaming pipeline** to showcase my expertise i
 5. **Containerization**:  
    - Docker Compose manages and orchestrates all services in an isolated environment.
 
----
-
 ### Results
 
 This project demonstrates how to create a scalable and efficient real-time data streaming pipeline. The architecture can handle high-throughput data streams and supports both NoSQL and relational storage, making it adaptable for various business use cases.
-
----
 
 ### Learning Outcomes
 
@@ -58,8 +49,6 @@ This project demonstrates how to create a scalable and efficient real-time data 
 - Gained hands-on experience in containerization with Docker.  
 - Improved understanding of real-time data processing and storage solutions.  
 
----
-
 This project is a testament to my skills in data engineering, stream processing, and working with cutting-edge data technologies. It represents my ability to design and implement end-to-end solutions for real-world data challenges.
 
-[Link to project](https://github.com/ZinebAissaoui/RealtimeDataStreaming)
+### [Link to project](https://github.com/ZinebAissaoui/RealtimeDataStreaming)

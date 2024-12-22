@@ -141,7 +141,7 @@ nav:
   #     - projects/Professional Projects/index.md
   #- 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
   #     - projects/Academic Projects/index.md
-        - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
+  #     - RAG with Langchain.md: projects/Academic Projects/RAG with Langchain.md
 
   # - Tutorials:
   #   - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:

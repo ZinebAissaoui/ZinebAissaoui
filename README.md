@@ -1,4 +1,4 @@
-<h2 align ="center">Business Intelligence and Data Engineer | Aure Cloud and Data Analyst Expert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<h2 align ="center">Business Intelligence and Data Engineer | GCP and Data Analyst Expert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47jvgl9wqux70end2s5pvc2545kwscxv0rai1guym9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
